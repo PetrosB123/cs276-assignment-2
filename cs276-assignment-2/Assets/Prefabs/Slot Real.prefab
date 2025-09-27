@@ -79,7 +79,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 4416981353574472230, guid: 63d51657007792347acfc9a9edd36864, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -109,3 +109,5 @@ MonoBehaviour:
   - {fileID: 4920974299518956209, guid: 7bcc63ba50d1e5a40b93ff7e38219473, type: 3}
   - {fileID: -4684689780766986200, guid: 9cdbc08b41a9b8d468680a103c6a6561, type: 3}
   timeBetweenSpins: 0.1
+  type: 
+  finished: 0

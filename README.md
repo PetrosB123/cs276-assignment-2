@@ -25,7 +25,8 @@ UI Text - Score and game over screen are ui text, hearts are ui images
 Sprite Movement - Control player movement, with animated sprites
 Particle System - Explosion particles on the slot machines and boost particles for when the dice launch you up
 GameObject Management - Slot machines are destroyed and recreated as new objects when they are activated. Slots also are created and destroyed dynamically when needed or when the slot machine blows up. Player health and score is changed dynamically during play by the player and by slot machines.
-Game Release - 
+Game Release - Build for Windows and Web. Windows build is in the repo at "\cs276-assignment-2\Windows Build\cs276-assignment-2.exe"
+Web Build - https://play.unity.com/en/games/13abeb8c-f5d6-4c54-94b3-0a2ec99ca508/cs-276-assignment-2
 
 ## Future Development Plan
 How would you extend the game with additional levels?
@@ -52,3 +53,6 @@ Wilhelm Scream by qubodup -- https://freesound.org/s/813308/ -- License: Creativ
 S38-01 Man eaten by alligator; screams [Wilhelm screams].wav by craigsmith -- https://freesound.org/s/675810/ -- License: Creative Commons 0
 
 The player spritesheet from "Simple 2D Platformer Assets Pack" by Goldmetal on the Unity Asset Store
+
+
+All other sprites/sounds were made by me.

@@ -1,6 +1,4 @@
 using System;
-using Unity.VisualScripting;
-using UnityEditor.Callbacks;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using System.Collections;
@@ -8,7 +6,6 @@ using TMPro;
 using UnityEngine.Events;
 using UnityEngine.UIElements;
 using UnityEngine.UI;
-using UnityEditor.Tilemaps;
 
 public class Move : MonoBehaviour
 {
